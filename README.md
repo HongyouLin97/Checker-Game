@@ -19,11 +19,12 @@
 
 # Brief introduction to the three classes of codes:
 
-## 1. class Checkerboard — this class defines the representation of the chessboard and the methods (accessors & mutators) as rules of the game.
+## 1. class Checkerboard 
+This class defines the representation of the chessboard and the methods (accessors & mutators) as rules of the game.
 
 - init: 
 
-```
+``` 
     list of list (8 x 8)
 	player one: + sign, player two: - sign
 	empty position: 0
@@ -104,3 +105,6 @@
 5. allSafeMove(): takes all the legal moves, finds out the legal moves, and stores them as a property of the object.
 6. decisionMove(): decides which and how the selected chess piece moves. The chess piece follows the multiple jumps rules. The chess piece that is in danger will be moved first, and the chess piece will make safe move when it is possible, then random move.
 
+# Reflections & future improvements?
+
+Originally I was trying to design the game in an object-oriented way, but it turned out to be very hard when it came to synthesize everything to write the Main.py. Even though I broke the whole game into different modules defined by different classes, I simply could not help stacking if & else statements. Thus, one future improvement will be to rewrite especially the Main.py and make it more readable. Other improvements will be to change the implementations of the chess & game board. An user interface will be a plus too. Finally, a chalenging improvement will be to update the AI.
