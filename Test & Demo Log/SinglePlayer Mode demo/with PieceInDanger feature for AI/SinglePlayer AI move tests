@@ -1,0 +1,43 @@
+Last login: Wed May 16 13:34:59 on ttys000
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 
+Hongyous-MacBook-Pro-3:~ hongyoulin$ python /Users/hongyoulin/Desktop/CMSC\ H106\ Final\ Project/tests.py 
+The game is over. 
+B won the game!
+
+
+The game is over. 
+A won the game!
+
+
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 0 0 0 0 0 0 0 0   2
+ 0 0 0 0 0 0 0 0   3
+ 0 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 1 0   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0 0 0 0 0 0   7
+ 0 0 0 0 0 0 0 0   8
+
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 0 0-1 0 0 0 0 0   2
+ 1 0 0 0 0 0 0 0   3
+ 0 1 0-1 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0 0 0 0 0 0   7
+ 0 0 0 0 0 0 0 0   8
+
+
+
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 

@@ -1,0 +1,240 @@
+Last login: Wed May 16 02:46:17 on ttys000
+
+Hongyous-MacBook-Pro-3:~ hongyoulin$ python /Users/hongyoulin/Desktop/CMSC\ H106\ Final\ Project/Main.py 
+
+Welcome to checkers. Please input A for two players mode and B for single player mode: B
+Enter your name: a
+Do you want to go first or second? second
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 0 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 0 0 1   3
+ 0 0 0 0 1 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+a choose the piece that you want to move: (6,3)
+Where do you want to move the piece to: (5,4)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 0 0 1   3
+ 0 0 0 0 1 0 0 0   4
+ 0 0 0-1 0 0 0 0   5
+-1 0 0 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 0 0 1   3
+ 0 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+-1 0 1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+a choose the piece that you want to move: (6,1)
+Where do you want to move the piece to: (5,2)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 0 0 1   3
+ 0 0 0 0 0 0 0 0   4
+ 0-1 0 0 0 0 0 0   5
+ 0 0 1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 0 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 0 0 0 0 0 0 0 0   4
+ 0-1 0 0 0 0 0 0   5
+ 0 0 1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+a choose the piece that you want to move: (5,2)
+Where do you want to move the piece to: (4,1)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 0 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+-1 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+ 0 0 1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 0 0 1 0   2
+ 0 0 0 1 0 1 0 1   3
+-1 0 1 0 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+ 0 0 1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+a choose the piece that you want to move: (6,5)
+Where do you want to move the piece to: (5,7)
+Illegal move! Do it again.
+a choose the piece that you want to move: (6,5)
+Where do you want to move the piece to: (5,6)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 0 0 1 0   2
+ 0 0 0 1 0 1 0 1   3
+-1 0 1 0 0 0 0 0   4
+ 0 0 0 0 0-1 0 0   5
+ 0 0 1 0 0 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 0 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 1   3
+-1 0 1 0 0 0 0 0   4
+ 0 0 0 0 0-1 0 0   5
+ 0 0 1 0 0 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+a choose the piece that you want to move: (6,7)
+Where do you want to move the piece to: (5,8)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 0 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 1   3
+-1 0 1 0 0 0 0 0   4
+ 0 0 0 0 0-1 0-1   5
+ 0 0 1 0 0 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 0 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 0   3
+-1 0 1 0 0 0 1 0   4
+ 0 0 0 0 0-1 0-1   5
+ 0 0 1 0 0 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+a choose the piece that you want to move: (7,2)
+Where do you want to move the piece to: (3,3)
+Illegal move! Do it again.
+a choose the piece that you want to move: (7,2)
+Where do you want to move the piece to: (5,3)
+Illegal move! Do it again.
+a choose the piece that you want to move: (7,2)
+Where do you want to move the piece to: (5,4)
+You have more than 2 captures avaiable, please continue with the previous chess piece.
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 0 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 0   3
+-1 0 1 0 0 0 1 0   4
+ 0 0 0-1 0-1 0-1   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+Where do you want to move the piece to: (4,4)
+Illegal move! Do it again.
+Where do you want to move the piece to: (4,2)
+Illegal move! Do it again.
+Where do you want to move the piece to: (3,2)
+You have more than 2 captures avaiable, please continue with the previous chess piece.
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 0 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0-1 0 1 0 1 0 0   3
+-1 0 0 0 0 0 1 0   4
+ 0 0 0 0 0-1 0-1   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+Where do you want to move the piece to: (1,3)
+Illegal move! Do it again.
+Where do you want to move the piece to: (1,4)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0-2 0 1 0 1   1
+ 1 0 0 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 0   3
+-1 0 0 0 0 0 1 0   4
+ 0 0 0 0 0-1 0-1   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0-2 0 1 0 1   1
+ 1 0 0 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 0   3
+-1 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 0-1   5
+ 0 0 0 0 1 0 0 0   6
+ 0 0 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+a choose the piece that you want to move: Traceback (most recent call last):
+  File "/Users/hongyoulin/Desktop/CMSC H106 Final Project/Main.py", line 44, in <module>
+    f1 = raw_input(player + " choose the piece that you want to move: ")
+EOFError
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 

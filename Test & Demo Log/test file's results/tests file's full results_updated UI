@@ -1,0 +1,126 @@
+Last login: Thu May 17 10:56:25 on ttys000
+Hongyous-MacBook-Pro-3:~ hongyoulin$ python /Users/hongyoulin/Desktop/CMSC\ H106\ Final\ Project_Hongyou\ Lin/tests.py 
+The game is over. 
+B won the game!
+
+
+The game is over. 
+A won the game!
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 1 0 0 0 0 0   1
+ 0 0 0-1 0 0 0 0   2
+ 0 0 0 0 0 0 0 0   3
+ 0 0 0 0 0-1 0 0   4
+ 0 0 0 0 0 0 0 0   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0 0 0 0 0 0   7
+ 0 0 0 0 0 0 0 0   8
+
+A choose the piece that you want to move: (1,3)
+Where do you want to move the piece to: (3,5)
+You have more than 2 captures avaiable, please continue with the previous chess piece.
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 0 0 0 0 0 0 0 0   2
+ 0 0 0 0 1 0 0 0   3
+ 0 0 0 0 0-1 0 0   4
+ 0 0 0 0 0 0 0 0   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0 0 0 0 0 0   7
+ 0 0 0 0 0 0 0 0   8
+
+Where do you want to move the piece to: (5,7)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 0 0 0 0 0 0 0 0   2
+ 0 0 0 0 0 0 0 0   3
+ 0 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 1 0   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0 0 0 0 0 0   7
+ 0 0 0 0 0 0 0 0   8
+
+The game is over. 
+A won the game!
+
+
+AI moves from (1, 3) to (3, 5)
+
+
+AI moves from (3, 5) to (5, 7)
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 0 0 0 0 0 0 0 0   2
+ 0 0 0 0 0 0 0 0   3
+ 0 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 1 0   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0 0 0 0 0 0   7
+ 0 0 0 0 0 0 0 0   8
+
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 0 0-1 0 0 0 0 0   2
+ 1 0 0 0 0 0 0 0   3
+ 0 1 0 0 0 0 0 0   4
+ 0 0-1 0 0 0 0 0   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0 0 0 0 0 0   7
+ 0 0 0 0 0 0 0 0   8
+
+AI moves from (5, 3) to (4, 4)
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 0 0-1 0 0 0 0 0   2
+ 1 0 0 0 0 0 0 0   3
+ 0 1 0-1 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+ 0 0 0 0 0 0 0 0   6
+ 0 0 0 0 0 0 0 0   7
+ 0 0 0 0 0 0 0 0   8
+
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0 0 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+AI moves from (3, 6) to (4, 5)
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 0 0 1   3
+ 1 0-1 0 1 0 1 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0 0 0-1 0 0 0   8
+
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 

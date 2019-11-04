@@ -1,0 +1,382 @@
+Last login: Wed May 16 18:12:30 on ttys000
+
+Hongyous-MacBook-Pro-3:~ hongyoulin$ python /Users/hongyoulin/Desktop/CMSC\ H106\ Final\ Project/Main.py 
+
+Welcome to checkers. Please input A for two players mode and B for single player mode: B
+Enter your name: B
+Do you want to go first or second? second
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 0 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+B choose the piece that you want to move: (6,5)
+Where do you want to move the piece to: (5,4)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 0 0   4
+ 0 0 0-1 0 0 0 0   5
+-1 0-1 0 0 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 1 0   4
+ 0 0 0-1 0 0 0 0   5
+-1 0-1 0 0 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+B choose the piece that you want to move: (6,1)
+Where do you want to move the piece to: (5,2)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0 0 0 0   5
+ 0 0-1 0 0 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 0 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0 0 0 0   5
+ 0 0-1 0 0 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+B choose the piece that you want to move: (7,6)
+Where do you want to move the piece to: (6,5)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 0 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0 0 0 0   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0 0 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0 0 0 0   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0 0 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+B choose the piece that you want to move: (6,7)
+Where do you want to move the piece to: (5,6)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0-1 0 0   5
+ 0 0-1 0-1 0 0 0   6
+ 0-1 0-1 0 0 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 0 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0 0 0   6
+ 0-1 0-1 0 0 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+B choose the piece that you want to move: (8,7)
+Where do you want to move the piece to: (7,6)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 0 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 0 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 0 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0 0 0   8
+
+B choose the piece that you want to move: (7,8)
+Where do you want to move the piece to: (6,7)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 0 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 0 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+-1 0-1 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 0 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+-1 0-1 0-1 0 0 0   8
+
+B choose the piece that you want to move: (7,2)
+Where do you want to move the piece to: (6,1)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 0 0   4
+ 0-1 0-1 0-1 0 1   5
+-1 0-1 0-1 0-1 0   6
+ 0 0 0-1 0-1 0 0   7
+-1 0-1 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 0 0 1   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0-1 0 1   5
+-1 0-1 0-1 0-1 0   6
+ 0 0 0-1 0-1 0 0   7
+-1 0-1 0-1 0 0 0   8
+
+B choose the piece that you want to move: (8,1)
+Where do you want to move the piece to: (7,2)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 0 0 1   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0-1 0 1   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 0   1
+ 1 0 1 0 1 0 0 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0-1 0 1   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+B choose the piece that you want to move: (5,2)
+Where do you want to move the piece to: (4   
+Illegal move! Do it again.
+B choose the piece that you want to move: (5,2)
+Where do you want to move the piece to: (4,3)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 0   1
+ 1 0 1 0 1 0 0 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0 0 0-1 0-1 0 1   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 0   1
+ 1 0 1 0 1 0 0 0   2
+ 0 1 0 0 0 1 0 1   3
+ 1 0 0 0 0 0 1 0   4
+ 0 1 0-1 0-1 0 1   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+B choose the piece that you want to move: (6,1)
+Where do you want to move the piece to: (4,3)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 1 0 0   1
+ 1 0 1 0 1 0 0 0   2
+ 0 1 0 0 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0 0 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 0 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 0 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0 0 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+B choose the piece that you want to move: (7,2)
+Where do you want to move the piece to: (6,1)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 0 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 0 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0 0 0-1 0-1 0 1   5
+-1 0-1 0-1 0-1 0   6
+ 0 0 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 0 0 0   1
+ 1 0 0 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0 0 0-1 0-1 0 1   5
+-1 0-1 0-1 0-1 0   6
+ 0 0 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+B choose the piece that you want to move: (6,1)
+Where do you want to move the piece to: (5,2)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 1 0 0 0 0   1
+ 1 0 0 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0 0 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0 0 0-1 0-1 0 0   7
+ 0 0-1 0-1 0 0 0   8
+
+B choose the piece that you want to move: (8,3)
+Where do you want to move the piece to: (7,2)
+ 1 2 3 4 5 6 7 8
+
+ 0 0 0 0 0 0 0 0   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 1 0-1 0 0 0 1 0   4
+ 0-1 0-1 0-1 0 1   5
+ 0 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0 0   7
+ 0 0 0 0-1 0 0 0   8
+
+This is the AI's move: 
+
+
+Traceback (most recent call last):
+  File "/Users/hongyoulin/Desktop/CMSC H106 Final Project/Main.py", line 42, in <module>
+    AI.decisionMove()
+  File "/Users/hongyoulin/Desktop/CMSC H106 Final Project/singlePlayer.py", line 149, in decisionMove
+    self.state.Move(pieceMove[0], pieceMove[1])
+IndexError: list index out of range
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 

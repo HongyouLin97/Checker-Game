@@ -1,0 +1,236 @@
+Last login: Thu May 17 10:25:00 on ttys000
+Hongyous-MacBook-Pro-3:~ hongyoulin$ python
+Python 2.7.10 (default, Jul 14 2015, 19:46:27) 
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
+ 
+Hongyous-MacBook-Pro-3:~ hongyoulin$ python /Users/hongyoulin/Desktop/CMSC\ H106\ Final\ Project_Hongyou\ Lin/Main.py 
+Welcome to checkers. Please input A for two players mode and B for single player mode: B
+Enter your name: brian
+Do you want to go first or second? second
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 1   3
+ 0 0 0 0 0 0 0 0   4
+ 0 0 0 0 0 0 0 0   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+AI moves from (3, 8) to (4, 7)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 0   3
+ 0 0 0 0 0 0 1 0   4
+ 0 0 0 0 0 0 0 0   5
+-1 0-1 0-1 0-1 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+brian choose the piece that you want to move: (6,7)
+Where do you want to move the piece to: (5,8)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 1 0 1 0 1 0 0   3
+ 0 0 0 0 0 0 1 0   4
+ 0 0 0 0 0 0 0-1   5
+-1 0-1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+AI moves from (3, 2) to (4, 1)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 1 0   4
+ 0 0 0 0 0 0 0-1   5
+-1 0-1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+brian choose the piece that you want to move: (6,3)
+Where do you want to move the piece to: (5,4)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 1 0   2
+ 0 0 0 1 0 1 0 0   3
+ 1 0 0 0 0 0 1 0   4
+ 0 0 0-1 0 0 0-1   5
+-1 0 0 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+AI moves from (2, 7) to (3, 8)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 0 0   2
+ 0 0 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 1 0   4
+ 0 0 0-1 0 0 0-1   5
+-1 0 0 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+brian choose the piece that you want to move: (6,1)
+Where do you want to move the piece to: (5,2)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 0 0   2
+ 0 0 0 1 0 1 0 1   3
+ 1 0 0 0 0 0 1 0   4
+ 0-1 0-1 0 0 0-1   5
+ 0 0 0 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+AI moves from (4, 1) to (6, 3)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 0 0   2
+ 0 0 0 1 0 1 0 1   3
+ 0 0 0 0 0 0 1 0   4
+ 0 0 0-1 0 0 0-1   5
+ 0 0 1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+brian choose the piece that you want to move: (5,4)
+Where do you want to move the piece to: (4,5)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 0 0   2
+ 0 0 0 1 0 1 0 1   3
+ 0 0 0 0-1 0 1 0   4
+ 0 0 0 0 0 0 0-1   5
+ 0 0 1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+AI moves from (3, 6) to (5, 4)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 0 0   2
+ 0 0 0 1 0 0 0 1   3
+ 0 0 0 0 0 0 1 0   4
+ 0 0 0 1 0 0 0-1   5
+ 0 0 1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+brian choose the piece that you want to move: (5,8)
+Where do you want to move the piece to: (3,6)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 1 0 0 0   2
+ 0 0 0 1 0-1 0 1   3
+ 0 0 0 0 0 0 0 0   4
+ 0 0 0 1 0 0 0 0   5
+ 0 0 1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+AI moves from (2, 5) to (4, 7)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 0 0 0 0   2
+ 0 0 0 1 0 0 0 1   3
+ 0 0 0 0 0 0 1 0   4
+ 0 0 0 1 0 0 0 0   5
+ 0 0 1 0-1 0 0 0   6
+ 0-1 0-1 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+brian choose the piece that you want to move: (7,4)
+Where do you want to move the piece to: (5,2)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 0 0 0 0   2
+ 0 0 0 1 0 0 0 1   3
+ 0 0 0 0 0 0 1 0   4
+ 0-1 0 1 0 0 0 0   5
+ 0 0 0 0-1 0 0 0   6
+ 0-1 0 0 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+AI moves from (5, 4) to (6, 3)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 0 0 0 0   2
+ 0 0 0 1 0 0 0 1   3
+ 0 0 0 0 0 0 1 0   4
+ 0-1 0 0 0 0 0 0   5
+ 0 0 1 0-1 0 0 0   6
+ 0-1 0 0 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+brian choose the piece that you want to move: (7,2)
+Where do you want to move the piece to: (5,4)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 1   1
+ 1 0 1 0 0 0 0 0   2
+ 0 0 0 1 0 0 0 1   3
+ 0 0 0 0 0 0 1 0   4
+ 0-1 0-1 0 0 0 0   5
+ 0 0 0 0-1 0 0 0   6
+ 0 0 0 0 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+This is the AI's move: 
+
+
+AI moves from (1, 8) to (2, 7)
+ 1 2 3 4 5 6 7 8
+
+ 0 1 0 1 0 1 0 0   1
+ 1 0 1 0 0 0 1 0   2
+ 0 0 0 1 0 0 0 1   3
+ 0 0 0 0 0 0 1 0   4
+ 0-1 0-1 0 0 0 0   5
+ 0 0 0 0-1 0 0 0   6
+ 0 0 0 0 0-1 0-1   7
+-1 0-1 0-1 0-1 0   8
+
+brian choose the piece that you want to move: Traceback (most recent call last):
+  File "/Users/hongyoulin/Desktop/CMSC H106 Final Project_Hongyou Lin/Main.py", line 49, in <module>
+    f1 = raw_input(player + " choose the piece that you want to move: ")
+EOFError
+Hongyous-MacBook-Pro-3:~ hongyoulin$ 
